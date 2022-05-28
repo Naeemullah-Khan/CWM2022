@@ -1,2 +1,2 @@
-# LMHSummerSchool2021
-Project for LMH summer school 2021
+# CWM: Introduction to ML and AI with Python
+Website for CWM on Introduction to Machine Learning and Artificial Intelligence for Python
